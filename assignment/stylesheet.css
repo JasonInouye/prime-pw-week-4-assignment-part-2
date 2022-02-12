@@ -1,0 +1,18 @@
+body {
+  background-color: gray;
+}
+
+h1 {
+  color: white;
+  font-size: 28px;
+  font-family: Tisa, Helvetica, sans-serif;
+}
+
+div {
+  background-color: green;
+}
+
+.header{
+  background-color: black;
+  padding-left: 10px;
+}
