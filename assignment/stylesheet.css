@@ -1,18 +1,38 @@
 body {
-  background-color: gray;
+  background-image: url("https://www.fs.usda.gov/sites/default/files/styles/hero_mobile/public/35681932813_9bb287fb0f_k.jpg?h=e6690f71&itok=H9htjDNz")
 }
 
-h1 {
+
+header{
   color: white;
-  font-size: 28px;
+  background-color: black;
+  text-align: center;
+  font-family: Tisa, Helvetica, sans-serif;
+  font-size: 38px;
+  opacity: 0.8;
+}
+
+img{
+  border: 5px solid black;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+.info{
+  color: white;
+  background-color: black;
+  text-align: center;
   font-family: Tisa, Helvetica, sans-serif;
 }
 
-div {
-  background-color: green;
-}
-
-.header{
+.info2{
+  color: white;
   background-color: black;
-  padding-left: 10px;
+  text-align: center;
+  font-family: Tisa, Helvetica, sans-serif;
 }
